@@ -73,7 +73,9 @@ considero este sistema automatizado fácil em vez de usar o sistema de escrita m
 
 ## 📄 Pré-requisitos
 
- - Modelo de entidade relacional
+ - Modelo de entidade relacional (MER) desenvolvido no BR Modelo ou draw.io
+ - Modelagem lógica
+ - Modelagem física
  - Comandos básicos DDL e DML
  - Conceitos sobre SQL
  - Conceitos básicos sobre MySQL
