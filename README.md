@@ -14,7 +14,7 @@ Para utilizar este repositório, siga os passos abaixo para fazer um fork no Git
 
 ### Passo 1: Acesse o GitHub
 
-Abra seu navegador da web e acesse o site do GitHub em github.com.
+ - Abra seu navegador da web e acesse o site do GitHub em github.com.
 
 ### Passo 2: Faça login
 
